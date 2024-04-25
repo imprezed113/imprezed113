@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imprezed113
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email edgarmobley@outlook.com
 
